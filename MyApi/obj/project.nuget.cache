@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OR+eLzK8jfI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\MyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatec\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\Fatec\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
