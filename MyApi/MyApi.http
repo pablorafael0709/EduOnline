@@ -4,3 +4,30 @@ GET {{MyApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+### Listar todos os modelos (ApiModels)
+GET {{MyApi_HostAddress}}/api/api
+Accept: application/json
+
+### Testar busca por ID inexistente (esperado: 404 Not Found)
+GET {{MyApi_HostAddress}}/api/api/999
+Accept: application/json
+
+### Criar um novo modelo (esperado: 201 Created)
+POST {{MyApi_HostAddress}}/api/api
+Content-Type: application/json
+
+{
+  "name": "monitor caseiro",
+  "description": "monitor caseiro de 15 polegadas"
+}
+
+###Atualizar um modelo existente (esperado: 204 No Content)
+PUT {{MyApi_HostAddress}}/api/api/1
+Content-Type: application/json
+
+{
+  "id": 3,
+  "name": "monitor caseiro atualizado",
+  "description": "monitor caseiro de 15 polegadas atualizadoooo"
+}

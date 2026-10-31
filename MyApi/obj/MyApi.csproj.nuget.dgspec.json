@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\MyApi.csproj": {}
+    "C:\\Users\\Pablo\\Documents\\GitHub\\CorpLabEmpilhaderia\\EduOnline\\MyApi\\MyApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\MyApi.csproj": {
+    "C:\\Users\\Pablo\\Documents\\GitHub\\CorpLabEmpilhaderia\\EduOnline\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\MyApi.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Documents\\GitHub\\CorpLabEmpilhaderia\\EduOnline\\MyApi\\MyApi.csproj",
         "projectName": "MyApi",
-        "projectPath": "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\MyApi.csproj",
-        "packagesPath": "C:\\Users\\Fatec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fatec\\Desktop\\MyWebApp\\ProjetoEduOnline\\MyApi\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\Documents\\GitHub\\CorpLabEmpilhaderia\\EduOnline\\MyApi\\MyApi.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\Documents\\GitHub\\CorpLabEmpilhaderia\\EduOnline\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fatec\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -39,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
